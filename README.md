@@ -1,3 +1,3 @@
-# color-game
+# color-game - JavaScript Game
 
-Project for the Webdeveloper Bootcamp by Colt Steele
+Project for Colt Steele's "Web Developer Bootcamp Course" - using HTML, CSS and JavaScript.
